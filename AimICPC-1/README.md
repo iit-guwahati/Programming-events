@@ -19,3 +19,9 @@ The best junior-most team :- _rr105_ [Rohit Rangan, Gautam Singh, Rahul]
 
 Runner up for best team with at least one girl : _ColonD_ [Charu Jain, Nitesh Singhal, Arihant Sethia]
 
+
+
+Contributors
+------------
+
+Setters :- Rajat Khanduja and Suhail Sherif

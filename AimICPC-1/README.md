@@ -9,7 +9,7 @@ Winners (team)
 
 Rank 1 : _trojans_ [Rovin Bhandari, Hitesh Arora, Amit Mittal]
 
-Rank 2 : _CodeFreaks_ [Ankit Atreja, Komal Agarwal, Kiranmayi Kasarapu]  (Also, the best team with at least one girl participant)  
+Rank 2 : _CodeFreaks_ (Also, the best team with at least one girl participant)  [Ankit Atreja, Komal Agarwal, Kiranmayi Kasarapu]
 
 Rank 3 : _npcomplete_ [Praful Johari, Amogh Tolay, Shreyas Basarge]
 

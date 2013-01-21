@@ -1,0 +1,20 @@
+The National Egg Co-ordination Committee (NECC) has been able to come up with a few variants of chicken egg that is stronger than the naturally available egg. To demonstrate the strength of eggs, they have decided to conduct a drop test. To characterize the strength, they will pick a few buildings and find the minimum floor from which any of the eggs break. Then, they would be able to represent the strength in terms of the building and its floors. However strange, this method is expected to bring the much needed attention to the egg-breaking problem and the solution obtained through Genetic Engineering.
+
+NECC, however, wants to minimize the number of eggs that break. But they are lazy people, so they wouldn't drop the egg from each floor to test if it breaks. They have asked you to tell them the minimum number of drops required to ascertain the floor from which when a particular kind of egg is dropped, it breaks, given that they have 'k' eggs of that type and there are 'n' floors in the building.
+
+INPUT FORMAT First line contains a single positive integer, T <= 1000, which indicates the number of test cases that follow. The next T lines contain 2 positive integers, N (<= 500) and K (<= 500), which are the number of floors and eggs respectively.
+
+OUTPUT FORMAT For every pair of floors and eggs, output a single number which is equal to the minimum number of trials that would be required to find the floor from which the egg breaks, in the worst-case.
+
+Sample I/O:
+
+4
+10 1
+10 2
+36 2
+100 2
+
+10
+4
+8
+14

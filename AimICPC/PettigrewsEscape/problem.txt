@@ -1,0 +1,26 @@
+It was revealed in Harry Potter and the Prisoner of Azkaban thatr Peter Pettigrew had faked his death at the hands of Sirius Black and escaped through a maze of sewer tunnels.
+
+Now, you are interested in finding out which path he took to escape. First, you are trying to figure out the total number of escape routes possible for his escape. You know that he doesn't reach the same cell twice. He can move only horizontally or vertically.
+
+Your friends in the architecture department have made a matrix to represent the maze. A '0' position represents an open cell, while a '1' represents a blocked cell. You know that he started his journey from (1,1) [1 - indexed and not 0-indexed] and had to reach (N,N).
+
+INPUT FORMAT
+
+First line is a single odd positive integer, T (<= 85), which indicates the size of the matrix. T lines follow, each containing T space separated numbers which are either '0' or '1'.
+
+OUTPUT FORMAT
+
+Output the number of ways in which Peter Pettigrew could have escaped from (1,1) to (N,N).
+
+Sample I/O:
+
+7
+0 0 1 0 0 1 0
+1 0 1 1 0 0 0
+0 0 0 0 1 0 1
+1 0 1 0 0 0 0 
+1 0 1 1 0 1 0
+1 0 0 0 0 1 0
+1 1 1 1 0 0 0
+
+4

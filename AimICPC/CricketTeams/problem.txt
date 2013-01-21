@@ -1,0 +1,32 @@
+You are a cricket coach who wants to partition a set of players into two teams of equal size and a referee. If there are odd players, one of the player becomes the referee. However, if there are even players, the coach himself acts as the referee. Each player has a score (integer) associated with him, known only to the coach. More than one player can have the same score. [If there are zero players, the coach is the referee]
+
+The most fair partitioning for the set is given when F(s1, s2) is minimized, where s1 and s2 are the sets representing the teams.
+
+F(s1, s2) = abs(g(s1) - g(s2))
+
+g(s) = sum of scores of players in s
+
+He is in an evil mood today and wants to create the most unfair partitioning. Another issue is that players keep coming in for the game and he wants to create teams as and when they come.
+
+This is too hard for him and he has asked you to help him out. He has asked you to create a computer program that can take in scores ( > 0) of players as input and when the input score is 0, return the score of the referee such the most unfair partitioning is obtained. If he should act as the referee, your program should output -1. Your program should stop when the input received is -2.
+
+INPUT FORMAT
+
+A single number, N ( <= 1000000000) on every line is given as input with the last input being -2. There will be at most 100000 lines.
+
+OUTPUT FORMAT
+
+Every time your program encounters a '0', you should return the score of the player that acts as referee.
+
+Sample I/O:
+
+4
+1
+3
+0
+1
+0
+-2
+
+3
+-1

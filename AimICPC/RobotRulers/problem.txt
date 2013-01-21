@@ -1,0 +1,22 @@
+Robots now rule the world, and Baby robot wants to help clean a road of dead human bodies, even though he can pick up only one body at a time.
+The road has N (between 1 and 10^5) human bodies on it, each at an integer position (varying from 0 to 10^9). Baby robot starts at an unknown integer position x (between 0 and 10^9) on the road. He goes to the nearest body (if there are multiple nearest bodies, he randomly chooses one), picks it up, dumps it at x and notes down in his notebook where he got the body from. He does this repeatedly until the road is cleared. You have found Baby robot's notebook. Your task is to figure out the minimum and maximum possible values of x.
+
+Input:
+On the first line the number of test cases is given (<1000). Each test case consists of two lines. The first has N. The second has N space separated integers (not necessarily unique) denoting the locations that the bodies were found, in the order that Baby robot picked them up.
+
+Output:
+For each test case, output the minimum and maximum possible values of x separated by a space, or -1 if not possible.
+
+Sample I/O:
+
+3
+1
+30
+3
+50 70 60
+5
+4000 9000 3000 1000 11500
+
+0 1000000000
+-1
+6000 6250

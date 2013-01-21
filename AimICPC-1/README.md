@@ -10,12 +10,12 @@ Winners (team)
 Rank 1 : _trojans_ [Rovin Bhandari, Hitesh Arora, Amit Mittal]
 
 Rank 2 : _CodeFreaks_ [Ankit Atreja, Komal Agarwal, Kiranmayi Kasarapu]
+(Also, the best team with at least one girl participant)
 
 Rank 3 : _npcomplete_ [Praful Johari, Amogh Tolay, Shreyas Basarge]
 
 The best junior-most team :- _rr105_ [Rohit Rangan, Gautam Singh, Rahul]
 
-Although the best team with at least one girl was CodeFreaks, who got the
-second position, runner up for that position was _ColonD_ [Charu Jain, Nitesh
-Singhal, Arihant Sethia]
+
+Runner up for best team with at least one girl : _ColonD_ [Charu Jain, Nitesh Singhal, Arihant Sethia]
 

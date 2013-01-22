@@ -8,7 +8,7 @@ Time :- 3:30pm - 6:30pm
 Winners (team)
 -------
 
-Rank 1 : _trojans_ (Rovin Bhandari, Hitesh Arora, Amit Mittal)
+Rank 1 : _trojans_ ([Rovin Bhandari](http://github.com/rovinbhandari/ "github profile"), Hitesh Arora, Amit Mittal)
 
 Rank 2 : _CodeFreaks_ (Ankit Atreja, Komal Agarwal, Kiranmayi Kasarapu) (Also, the best team with at least one girl participant)
 
@@ -24,4 +24,4 @@ Runner up for best team with at least one girl : _ColonD_ (Charu Jain, Nitesh Si
 Contributors
 ------------
 
-Problem Setters :- Rajat Khanduja and Suhail Sherif
+Problem Setters :- [Rajat Khanduja](http://github.com/rajatkhanduja/ "github profile") and [Suhail Sherif](http://github.com/suhailsherif/ "github profile")
